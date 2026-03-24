@@ -39,7 +39,7 @@ st.divider()
 # @st.cache_resource lagane se model baar-baar load nahi hota, website fast chalti hai
 @st.cache_resource
 def load_model():
-    return joblib.load("Youtube_views_model.pkl")
+    return joblib.load("youtube_views_model.pkl")
 
 package = load_model()
 model = package["model"]
