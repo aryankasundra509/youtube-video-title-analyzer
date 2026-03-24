@@ -12,7 +12,7 @@ and analyzes video titles — trained on **250,000 India Trending Videos**.
 - Predicts potential view range before uploading
 - Categories: Low / Average / Hit / Viral
 - Shows AI Confidence %
-- Based on: Category, Subscribers, Title, Tags, Upload Time
+- Based on: Category, Subscribers, Title, Tags, Upload Time & Day
 
 ### 2. Title Analyzer
 - Scores your title out of 100
@@ -30,19 +30,19 @@ and analyzes video titles — trained on **250,000 India Trending Videos**.
 
 ## 📁 Dataset
 - Source: Kaggle — India YouTube Trending Videos
-- Size: 248,672 rows after cleaning
+- Size: 250,000 rows after cleaning
 - Extra: Subscriber count fetched via YouTube Data API v3
 
 ## 🤖 Model Details
 - Algorithm: Random Forest Classifier
-- Training Data: 198,937 rows
+- Training Data: 199,937 rows
 - Test Data: 49,735 rows
 - Accuracy: 75.26%
 - Classes: Low / Average / Hit / Viral
 
 ## ⚠️ Disclaimer
 Predictions are based on historical patterns from India trending data.
-Actual views depend on content quality, thumbnails, and promotion.
+Actual views depend on content subscribers, quality, thumbnails, and promotion.
 
 ## 👨‍💻 Author
 Aryan — Final Year Computer Engineering Student
