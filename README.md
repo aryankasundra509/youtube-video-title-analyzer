@@ -1,7 +1,7 @@
 # 🎬 YouTube Video & Title Analyzer
 
 A Machine Learning web app that predicts YouTube video's potential reach 
-and analyzes video titles — trained on **248,000+ India Trending Videos**.
+and analyzes video titles — trained on **250,000 India Trending Videos**.
 
 ## 🚀 Live Demo
 [Click here to open app](https://youtube-video-title-analyzer-u7zu2qg3hdvwppw5727u3a.streamlit.app)
