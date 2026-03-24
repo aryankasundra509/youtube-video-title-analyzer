@@ -11,7 +11,7 @@ from Title_Analyzer import analyze_title
 # ==========================================
 # PAGE CONFIGURATION
 # ==========================================
-st.set_page_config(page_title= "YouTube Video & Title Analyzer", page_icon="🎬", layout="wide")
+st.set_page_config(page_title= "YouTube Video & Title Analyzer", page_icon="🚀", layout="wide")
 
 st.markdown("""
     <style>
@@ -27,7 +27,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Page Title ----------------
-st.title("🚀 YouTube Trend Predictor")
+st.title("🎬 YouTube Video & Title Analyzer")
 st.markdown("Predict your video's potential reach and optimize your title — based on **250k India Trending Videos**")
 
 st.divider()
