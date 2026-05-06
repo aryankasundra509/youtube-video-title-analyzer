@@ -46,3 +46,5 @@ Actual views depend on content subscribers, quality, thumbnails, and promotion.
 
 ## 👨‍💻 Author
 Aryan — Final Year Computer Engineering Student
+
+[![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
