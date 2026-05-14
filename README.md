@@ -3,8 +3,22 @@
 A Machine Learning web app that predicts YouTube video's potential reach 
 and analyzes video titles — trained on **250,000 India Trending Videos**.
 
+---
+
 ## 🚀 Live Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-video-title-analyzer-u7zu2qg3hdvwppw5727u3a.streamlit.app)
+
+---
+
+## 📸 Dashboard Preview
+
+![Views Predictor Dashboard](assets/views_predictor.png)
+![Views Predictor Output](assets/views_output.png)
+
+![Title Analyzer](assets/title_analyzer.png)
+![Title Analyzer Output](assets/title_score.png)
+
+---
 
 ## 📊 Features
 
@@ -20,6 +34,8 @@ and analyzes video titles — trained on **250,000 India Trending Videos**.
 - Gives improvement suggestions
 - Suggests missing keywords by category
 
+---
+
 ## 🛠️ Tech Stack
 - Python
 - Scikit-learn (Random Forest Classifier)
@@ -28,10 +44,14 @@ and analyzes video titles — trained on **250,000 India Trending Videos**.
 - Plotly (Gauge Chart)
 - Pandas & NumPy
 
+---
+
 ## 📁 Dataset
 - Source: Kaggle — India YouTube Trending Videos
 - Size: 250,000 rows after cleaning
 - Extra: Subscriber count fetched via YouTube Data API v3
+
+---
 
 ## 🤖 Model Details
 - Algorithm: Random Forest Classifier
@@ -40,11 +60,16 @@ and analyzes video titles — trained on **250,000 India Trending Videos**.
 - Accuracy: 75.26%
 - Classes: Low / Average / Hit / Viral
 
+---
+
 ## ⚠️ Disclaimer
 Predictions are based on historical patterns from India trending data.
 Actual views depend on content subscribers, quality, thumbnails, and promotion.
 
+---
+
 ## 👨‍💻 Author
-Aryan — Final Year Computer Engineering Student
+
+Aryan Kasundra
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
